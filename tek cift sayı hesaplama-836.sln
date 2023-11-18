@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tek cift sayı hesaplama-836", "tek cift sayı hesaplama-836\tek cift sayı hesaplama-836.csproj", "{6FF1304A-0DED-418B-80B0-B52E55E176BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FF1304A-0DED-418B-80B0-B52E55E176BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF1304A-0DED-418B-80B0-B52E55E176BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF1304A-0DED-418B-80B0-B52E55E176BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF1304A-0DED-418B-80B0-B52E55E176BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {641EF4A4-573F-4BCF-85A1-63AE5C8DBC2F}
+	EndGlobalSection
+EndGlobal
